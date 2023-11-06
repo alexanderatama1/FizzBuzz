@@ -1,2 +1,2 @@
 # FizzBuzz
-A FizzBuzz console app, two different ways that it was done- 1. use of if else statement with % operator. 2. Can also be done without the modulus via counter.
+This program is an implementation of the "FizzBuzz" game, a common programming task that demonstrates iteration and conditional logic.
